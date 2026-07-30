@@ -21,3 +21,15 @@
 ## 📖 Overview
 
 Learn & Let Learn is a full-stack peer-to-peer learning platform where users can register, build their profiles, connect with mentors or learners based on skills, chat in real time, and conduct live video learning sessions.
+
+
+## ✨ Features
+
+- 🚀 Live deployed application on Vercel
+- 🔐 JWT Authentication
+- 👤 User Profiles
+- 🎯 Skill-Based Matching
+- 💬 Real-Time Chat (Socket.io)
+- 📹 Video Calling (WebRTC)
+- 🔍 Search & Discover Users
+- 📱 Responsive Design
